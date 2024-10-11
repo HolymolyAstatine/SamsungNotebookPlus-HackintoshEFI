@@ -16,7 +16,7 @@ An EFI for SamsungNotebookPlus (NT350XCR-AD3AS) i3-10110U Comet Lake with OpenCo
 | SMBIOS           | MacBookPro 16,1                    |
 | BootLoader       | OpenCore                           |
 | macOS            | Sonoma 14.5                        |
-# 작동중인것 :
+# Working :
 -  Trackpad 
 -  Internal Camera 
 -  Audio 
@@ -29,3 +29,4 @@ An EFI for SamsungNotebookPlus (NT350XCR-AD3AS) i3-10110U Comet Lake with OpenCo
 -  Microphone 
 -  AirDrop
 -  HDMI port
+
