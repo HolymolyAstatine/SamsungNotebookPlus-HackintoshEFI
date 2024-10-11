@@ -9,7 +9,7 @@ An EFI for SamsungNotebookPlus (NT350XCR-AD3AS) i3-10110U Comet Lake with OpenCo
 | CPU              | Intel i3 10110U                    |
 | iGPU             | Intel Graphics UHD 630             |
 | Audio            | Realtek ALC236                     |
-| Ram              | 16 GB 2667 MHz DDR4                |
+| Ram              | 8  GB 2667 MHz DDR4                |
 | Ethernet         | Realtek PCIe GbE Family Controller |
 | SSD NVMe         | Samsung mzvlq256hajd-000h1 1TB     |
 | SSD SATA         | Samsung 850 EVO 120GB              |
